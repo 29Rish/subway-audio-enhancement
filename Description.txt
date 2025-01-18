@@ -1,0 +1,5 @@
+Description 
+
+#1. In the youtube sample code, we design a notch filter designed to remove a certain target frequency
+#2. 
+
